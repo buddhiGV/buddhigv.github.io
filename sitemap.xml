@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://www.buddhigv.fun/post/poem_walls/</loc>
+    <lastmod>2018-03-05T00:40:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.buddhigv.fun/</loc>
+    <lastmod>2018-03-05T00:40:19+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://www.buddhigv.fun/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://www.buddhigv.fun/tags/poems/</loc>
+    <lastmod>2018-03-05T00:40:19+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.buddhigv.fun/post/</loc>
+    <lastmod>2018-03-05T00:40:19+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.buddhigv.fun/tags/</loc>
+    <lastmod>2018-03-05T00:40:19+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.buddhigv.fun/tags/walls/</loc>
+    <lastmod>2018-03-05T00:40:19+05:30</lastmod>
     <priority>0</priority>
   </url>
   
