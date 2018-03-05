@@ -3,13 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/links/</loc>
+    <lastmod>2018-03-05T12:03:56+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-03-05T12:06:05+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/poem_walls/</loc>
     <lastmod>2018-03-05T00:40:19+05:30</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-03-05T00:40:19+05:30</lastmod>
+    <lastmod>2018-03-05T12:03:56+05:30</lastmod>
     <priority>0</priority>
   </url>
   
