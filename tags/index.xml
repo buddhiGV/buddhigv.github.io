@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License,based on a work at http://www.buddhigv.fun，please give source if you like to quote or reproduce</copyright>
-    <lastBuildDate>Mon, 05 Mar 2018 00:40:19 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 07 Mar 2018 20:01:39 +0530</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Love</title>
+      <link>/tags/love/</link>
+      <pubDate>Wed, 07 Mar 2018 20:01:39 +0530</pubDate>
+      
+      <guid>/tags/love/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Poems</title>
@@ -18,6 +27,15 @@
       <pubDate>Mon, 05 Mar 2018 00:40:19 +0530</pubDate>
       
       <guid>/tags/poems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radha</title>
+      <link>/tags/radha/</link>
+      <pubDate>Wed, 07 Mar 2018 20:01:39 +0530</pubDate>
+      
+      <guid>/tags/radha/</guid>
       <description></description>
     </item>
     

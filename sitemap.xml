@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>/post/radha/</loc>
+    <lastmod>2018-03-07T20:01:39+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/poem_walls/</loc>
     <lastmod>2018-03-05T00:40:19+05:30</lastmod>
   </url>
@@ -29,6 +34,12 @@
   </url>
   
   <url>
+    <loc>/tags/love/</loc>
+    <lastmod>2018-03-07T20:01:39+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/poems/</loc>
     <lastmod>2018-03-05T00:40:19+05:30</lastmod>
     <priority>0</priority>
@@ -36,13 +47,19 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-03-05T00:40:19+05:30</lastmod>
+    <lastmod>2018-03-07T20:01:39+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/radha/</loc>
+    <lastmod>2018-03-07T20:01:39+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-03-05T00:40:19+05:30</lastmod>
+    <lastmod>2018-03-07T20:01:39+05:30</lastmod>
     <priority>0</priority>
   </url>
   
