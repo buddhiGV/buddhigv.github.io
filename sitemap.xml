@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>/post/superman/</loc>
+    <lastmod>2018-03-20T22:48:14+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/woman_in_red/</loc>
+    <lastmod>2018-03-20T22:45:43+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/radha/</loc>
     <lastmod>2018-03-07T20:01:39+05:30</lastmod>
   </url>
@@ -41,19 +51,31 @@
   
   <url>
     <loc>/tags/poems/</loc>
-    <lastmod>2018-03-05T00:40:19+05:30</lastmod>
+    <lastmod>2018-03-20T22:45:43+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-03-07T20:01:39+05:30</lastmod>
+    <lastmod>2018-03-20T22:48:14+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/radha/</loc>
     <lastmod>2018-03-07T20:01:39+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/stories/</loc>
+    <lastmod>2018-03-20T22:48:14+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/superman/</loc>
+    <lastmod>2018-03-20T22:48:14+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -66,6 +88,12 @@
   <url>
     <loc>/tags/walls/</loc>
     <lastmod>2018-03-05T00:40:19+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/woman/</loc>
+    <lastmod>2018-03-20T22:48:14+05:30</lastmod>
     <priority>0</priority>
   </url>
   

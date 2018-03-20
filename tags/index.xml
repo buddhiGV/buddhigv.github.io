@@ -24,7 +24,7 @@
     <item>
       <title>Poems</title>
       <link>/tags/poems/</link>
-      <pubDate>Mon, 05 Mar 2018 00:40:19 +0530</pubDate>
+      <pubDate>Tue, 20 Mar 2018 22:45:43 +0530</pubDate>
       
       <guid>/tags/poems/</guid>
       <description></description>
@@ -40,11 +40,38 @@
     </item>
     
     <item>
+      <title>Stories</title>
+      <link>/tags/stories/</link>
+      <pubDate>Tue, 20 Mar 2018 22:48:14 +0530</pubDate>
+      
+      <guid>/tags/stories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superman</title>
+      <link>/tags/superman/</link>
+      <pubDate>Tue, 20 Mar 2018 22:48:14 +0530</pubDate>
+      
+      <guid>/tags/superman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Walls</title>
       <link>/tags/walls/</link>
       <pubDate>Mon, 05 Mar 2018 00:40:19 +0530</pubDate>
       
       <guid>/tags/walls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Woman</title>
+      <link>/tags/woman/</link>
+      <pubDate>Tue, 20 Mar 2018 22:48:14 +0530</pubDate>
+      
+      <guid>/tags/woman/</guid>
       <description></description>
     </item>
     

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Buddhi GV</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Buddhi GV</description>
+    <title>Stories on Buddhi GV</title>
+    <link>/tags/stories/</link>
+    <description>Recent content in Stories on Buddhi GV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License,based on a work at http://www.buddhigv.fun，please give source if you like to quote or reproduce</copyright>
     <lastBuildDate>Tue, 20 Mar 2018 22:48:14 +0530</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/stories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,15 +26,6 @@
     </item>
     
     <item>
-      <title>Woman in Red</title>
-      <link>/post/woman_in_red/</link>
-      <pubDate>Tue, 20 Mar 2018 22:45:43 +0530</pubDate>
-      
-      <guid>/post/woman_in_red/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Radha</title>
       <link>/post/radha/</link>
       <pubDate>Wed, 07 Mar 2018 20:01:39 +0530</pubDate>
@@ -43,20 +34,6 @@
       <description>&lt;h3 id=&#34;radha&#34;&gt;Radha&lt;/h3&gt;
 
 &lt;p&gt;Just by that thought itself, Radha was having butterflies in her stomach. She was in love.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Walls</title>
-      <link>/post/poem_walls/</link>
-      <pubDate>Mon, 05 Mar 2018 00:40:19 +0530</pubDate>
-      
-      <guid>/post/poem_walls/</guid>
-      <description>&lt;p&gt;Let&amp;rsquo;s build walls,&lt;br /&gt;
-A beautiful wall,&lt;br /&gt;
-Just hear my calls,&lt;br /&gt;
-One and all.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
